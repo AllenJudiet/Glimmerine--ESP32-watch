@@ -15,7 +15,7 @@ Glimmerine V0 is an ESP32-C3 powered desk clock and interactive gadget featuring
 
 ---
 
-## 🔌 Pin Mapping (ESP32-C3 / ESP32)
+##  Pin Mapping (ESP32-C3 / ESP32)
 
 | Component | Pin Function | ESP32 GPIO | Description |
 |---|---|---|---|
