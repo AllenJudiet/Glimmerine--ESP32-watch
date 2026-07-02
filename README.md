@@ -3,7 +3,12 @@
 Glimmerine V0 is an ESP32-C3 powered desk clock and interactive gadget featuring a 320x240 ILI9341 TFT display, XPT2046 touchscreen control, and hardware navigation buttons. It switches between multiple utility and entertainment screens (Clock, Weather, Solar System Orrery, Snake Game, Doodle Pad, and System Info) using scroll transitions.
 
 ---
-
+## Materials
+>ESP32
+>5V 2A Step-Up Boost Converter Module 
+>320x240 ILI9341 TFT display
+>3X push buttons
+>3.7V 450mAh Lithium-ion Rechargeable Battery
 ## Features
 
 - **Glimmerine V0 Clock**: Clean sliding-drum digit display with real-time NTP sync.
