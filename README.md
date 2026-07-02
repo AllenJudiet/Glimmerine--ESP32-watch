@@ -1,10 +1,10 @@
-# Glimmerine V0 (ESP32-C3 Watch / Desk Clock)
+# Glimmerine V0 (ESP32-C3 Watch k)
 
 Glimmerine V0 is an ESP32-C3 powered desk clock and interactive gadget featuring a 320x240 ILI9341 TFT display, XPT2046 touchscreen control, and hardware navigation buttons. It switches between multiple utility and entertainment screens (Clock, Weather, Solar System Orrery, Snake Game, Doodle Pad, and System Info) using scroll transitions.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Glimmerine V0 Clock**: Clean sliding-drum digit display with real-time NTP sync.
 - **Weather Screen**: Smart smooth weather animations (pulsing sun/smooth falling rain) and real-time temperature/conditions pulled from OpenWeatherMap, with custom vector typography.
@@ -33,7 +33,7 @@ Glimmerine V0 is an ESP32-C3 powered desk clock and interactive gadget featuring
 
 ---
 
-## 🛠️ Libraries Used
+##  Libraries Used
 
 This project relies on the following Arduino libraries:
 - **[Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)**: Core graphics rendering, shapes, and custom fonts.
@@ -47,7 +47,7 @@ This project relies on the following Arduino libraries:
 
 ---
 
-## 🌐 APIs Reference
+##  APIs Reference
 
 1. **Time Sync**:
    - Protocol: Network Time Protocol (NTP)
