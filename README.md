@@ -1,4 +1,4 @@
-# Glimmerine V0 (ESP32-C3 Watch k)
+<img width="206" height="113" alt="image" src="https://github.com/user-attachments/assets/2297347d-ab37-499d-af60-a26fc6cbbd28" /># Glimmerine V0 (ESP32-C3 Watch k)
 
 Glimmerine V0 is an ESP32-C3 powered desk clock and interactive gadget featuring a 320x240 ILI9341 TFT display, XPT2046 touchscreen control, and hardware navigation buttons. It switches between multiple utility and entertainment screens (Clock, Weather, Solar System Orrery, Snake Game, Doodle Pad, and System Info) using scroll transitions.
 
