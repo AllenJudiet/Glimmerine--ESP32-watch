@@ -1,0 +1,6 @@
+.agents/
+.vscode/
+.idea/
+*.bin
+*.elf
+*.hex
